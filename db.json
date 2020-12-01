@@ -39,7 +39,7 @@
       "question": "what are you",
       "options": [
         {
-          "label": "proparty owner",
+          "label": "property owner",
           "type": "radio",
           "name": "property",
           "value": "commercial",
