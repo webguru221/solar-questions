@@ -304,7 +304,7 @@
           "label": "email id",
           "type": "email",
           "name": "email",
-          "placeholder": "eg example@example.fr",
+          "placeholder": "p.ex. +1 5015153183",
           "value": null,
           "defaultValue": null
         }
