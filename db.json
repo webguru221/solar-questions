@@ -304,7 +304,7 @@
           "label": "email id",
           "type": "email",
           "name": "email",
-          "placeholder": "p.ex. +1 5015153183",
+          "placeholder": "eg example@example.fr",
           "value": null,
           "defaultValue": null
         }
@@ -334,7 +334,7 @@
           "label": "phone no",
           "type": "text",
           "name": "phoneno",
-          "placeholder": "p.ex. 06 1234 5678",
+          "placeholder": "p.ex. +1 5015153183",
           "value": null,
           "defaultValue": null
         }
