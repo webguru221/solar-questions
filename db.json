@@ -4,17 +4,17 @@
       "question": "what kind of property",
       "options": [
         {
-          "label": "commercial",
+          "label": "Commercial",
           "type": "radio",
           "name": "property",
-          "value": "commercial",
+          "value": "Commercial",
           "defaultChecked": false
         },
         {
-          "label": "private",
+          "label": "Private",
           "type": "radio",
           "name": "property",
-          "value": "private",
+          "value": "Private",
           "defaultChecked": false
         }
       ],
@@ -25,7 +25,7 @@
       "question": "Postal code :",
       "options": [
         {
-          "label": "zip code",
+          "label": "Zip code",
           "type": "text",
           "name": "zipcode",
           "placeholder": "eg 75058",
@@ -40,14 +40,14 @@
       "question": "what are you",
       "options": [
         {
-          "label": "property owner",
+          "label": "Property owner",
           "type": "radio",
           "name": "property",
           "value": "commercial",
           "defaultChecked": false
         },
         {
-          "label": "tenant",
+          "label": "Tenant",
           "type": "radio",
           "name": "property",
           "value": "private",
@@ -286,7 +286,7 @@
       "question": "Address :",
       "options": [
         {
-          "label": "address",
+          "label": "Address",
           "type": "text",
           "name": "address",
           "placeholder": "p.  ex.  52 Rue Oudinot",
