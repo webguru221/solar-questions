@@ -4,7 +4,7 @@
       "question": "what kind of property",
       "options": [
         {
-          "src": "/assets/image/icon-property-garden.png",
+          "src": "https://images.webforms.mvfglobal.com/cro/b2c/CC_PPC_002/solaire-003/icon-property-garden.svg",
           "label": "Commercial",
           "type": "radio",
           "name": "property",
@@ -12,7 +12,7 @@
           "defaultChecked": false
         },
         {
-          "src": "/assets/image/icon-property-no-garden.png",
+          "src": "https://images.webforms.mvfglobal.com/cro/b2c/CC_PPC_002/solaire-003/icon-property-no-garden.svg",
           "label": "Private",
           "type": "radio",
           "name": "property",
@@ -42,7 +42,7 @@
       "question": "Who are you",
       "options": [
         {
-          "src": "/assets/image/icon2.png",
+          "src": "https://images.webforms.mvfglobal.com/cro/b2c/CC_PPC_002/solaire-003/icon-solaire-own.svg",
           "label": "Owner",
           "type": "radio",
           "name": "property",
@@ -50,7 +50,7 @@
           "defaultChecked": false
         },
         {
-          "src": "/assets/image/icon1.png",
+          "src": "https://images.webforms.mvfglobal.com/cro/b2c/CC_PPC_002/solaire-003/icon-solaire-rent.svg",
           "label": "Tenant",
           "type": "radio",
           "name": "property",
@@ -285,7 +285,7 @@
         {
           "value": "37",
           "name": "Other"
-        }        
+        }
       ],
       "type": "select",
       "id": 6
