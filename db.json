@@ -40,7 +40,7 @@
       "question": "what are you",
       "options": [
         {
-          "label": "Property owner",
+          "label": "Owner",
           "type": "radio",
           "name": "property",
           "value": "commercial",
@@ -61,21 +61,21 @@
       "question": "what is your electric bill per a month",
       "options": [
         {
-          "label": "0-200",
+          "label": "$0 - $200",
           "type": "radio",
           "name": "electric-bill",
           "value": "0-200",
           "defaultChecked": false
         },
         {
-          "label": "200-400",
+          "label": "$200 - $400",
           "type": "radio",
           "name": "electric-bill",
           "value": "200-400",
           "defaultChecked": false
         },
         {
-          "label": "400 or more",
+          "label": "$400 or more",
           "type": "radio",
           "name": "electric-bill",
           "value": "400 or more",
@@ -152,7 +152,7 @@
         },
         {
           "value": "6",
-          "name": "City of Tailahassee Utilities"
+          "name": "City of Tallahassee Utilities"
         },
         {
           "value": "7",
@@ -165,6 +165,10 @@
         {
           "value": "9",
           "name": "Clay Electric Cooperative"
+        },
+        {
+          "value": "9",
+          "name": " Clay Electric Co-op"
         },
         {
           "value": "10",
@@ -232,7 +236,7 @@
         },
         {
           "value": "26",
-          "name": "Page Electric"
+          "name": "Paige Electric"
         },
         {
           "value": "27",
@@ -268,7 +272,7 @@
         },
         {
           "value": "35",
-          "name": "West Florida Electric Coopeartive"
+          "name": "West Florida Electric Cooperative"
         },
         {
           "value": "36",
