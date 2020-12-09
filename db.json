@@ -4,6 +4,7 @@
       "question": "what kind of property",
       "options": [
         {
+          "src": "/assets/image/icon-property-garden.png",
           "label": "Commercial",
           "type": "radio",
           "name": "property",
@@ -11,6 +12,7 @@
           "defaultChecked": false
         },
         {
+          "src": "/assets/image/icon-property-no-garden.png",
           "label": "Private",
           "type": "radio",
           "name": "property",
@@ -37,9 +39,10 @@
       "id": 2
     },
     {
-      "question": "what are you",
+      "question": "Who are you",
       "options": [
         {
+          "src": "/assets/image/icon2.png",
           "label": "Owner",
           "type": "radio",
           "name": "property",
@@ -47,6 +50,7 @@
           "defaultChecked": false
         },
         {
+          "src": "/assets/image/icon1.png",
           "label": "Tenant",
           "type": "radio",
           "name": "property",
