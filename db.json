@@ -62,7 +62,7 @@
       "id": 3
     },
     {
-      "question": "what is your electric bill per month ?",
+      "question": "what is your electric bill per month",
       "options": [
         {
           "label": "$0 - $200",
