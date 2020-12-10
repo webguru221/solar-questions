@@ -312,7 +312,7 @@
           "label": "email id",
           "type": "email",
           "name": "email",
-          "placeholder": "example@example.fr",
+          "placeholder": "email@address.com",
           "value": null,
           "defaultValue": null
         }
@@ -327,7 +327,7 @@
           "label": "Full Name",
           "type": "text",
           "name": "FullName",
-          "placeholder": "pex Jacques Moreau",
+          "placeholder": "Jacques Moreau",
           "value": null,
           "defaultValue": null
         }
