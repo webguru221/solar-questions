@@ -24,18 +24,18 @@
       "id": 1
     },
     {
-      "question": "Postal code :",
+      "question": "Postal Code",
       "options": [
         {
-          "label": "Zip code",
+          "label": "postal code",
           "type": "text",
-          "name": "zipcode",
-          "placeholder": "eg 75058",
+          "name": "postal code",
+          "placeholder": "75058",
           "value": null,
           "defaultValue": null
         }
       ],
-      "type": "text",
+      "type": "zipcode",
       "id": 2
     },
     {
@@ -62,7 +62,7 @@
       "id": 3
     },
     {
-      "question": "what is your electric bill per a month",
+      "question": "what is your electric bill per month ?",
       "options": [
         {
           "label": "$0 - $200",
@@ -93,38 +93,38 @@
       "question": "area of ​​your roof",
       "options": [
         {
-          "label": "20 sq",
+          "label": "20 sq. m",
           "type": "radio",
           "name": "roof",
-          "value": "20 sq",
+          "value": "20 sq. m",
           "defaultChecked": false
         },
         {
-          "label": "20-49 sq",
+          "label": "20 - 49 sq. m",
           "type": "radio",
           "name": "roof",
-          "value": "20-49 sq",
+          "value": "20-49 sq. m",
           "defaultChecked": false
         },
         {
-          "label": "50-200 sq",
+          "label": "50 - 200 sq. m",
           "type": "radio",
           "name": "roof",
-          "value": "50-200 sq",
+          "value": "50-200 sq. m",
           "defaultChecked": false
         },
         {
-          "label": "200-500 sq",
+          "label": "200 - 500 sq. m",
           "type": "radio",
           "name": "roof",
-          "value": "200-500 sq",
+          "value": "200-500 sq. m",
           "defaultChecked": false
         },
         {
-          "label": "more then 500 sq",
+          "label": "more then 500 sq. m",
           "type": "radio",
           "name": "roof",
-          "value": "more then 500 sq",
+          "value": "more then 500 sq. m",
           "defaultChecked": false
         }
       ],
@@ -291,13 +291,13 @@
       "id": 6
     },
     {
-      "question": "Address :",
+      "question": "Address",
       "options": [
         {
           "label": "Address",
           "type": "text",
           "name": "address",
-          "placeholder": "p.  ex.  52 Rue Oudinot",
+          "placeholder": "52 Rue Oudinot",
           "value": null,
           "defaultValue": null
         }
@@ -312,7 +312,7 @@
           "label": "email id",
           "type": "email",
           "name": "email",
-          "placeholder": "eg example@example.fr",
+          "placeholder": "example@example.fr",
           "value": null,
           "defaultValue": null
         }
@@ -339,10 +339,10 @@
       "question": "Phone number",
       "options": [
         {
-          "label": "phone no",
+          "label": "phone number",
           "type": "text",
-          "name": "phoneno",
-          "placeholder": "p.ex. +1 5015153183",
+          "name": "phone number",
+          "placeholder": "+1 5015153183",
           "value": null,
           "defaultValue": null
         }
