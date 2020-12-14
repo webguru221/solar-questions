@@ -342,7 +342,7 @@
           "label": "phone number",
           "type": "text",
           "name": "phone number",
-          "placeholder": "+1 5015153183",
+          "placeholder": "5015153183",
           "value": null,
           "defaultValue": null
         }
