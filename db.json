@@ -302,7 +302,7 @@
           "defaultValue": null
         }
       ],
-      "type": "text",
+      "type": "address",
       "id": 7
     },
     {
